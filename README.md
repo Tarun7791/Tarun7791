@@ -18,6 +18,6 @@ I enjoy building practical products that solve real problems. One of my main pro
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Tarun7791&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=Tarun7791&icon=0&color=13)](https://visitcount.itsvg.in)
+![Profile Views](https://komarev.com/ghpvc/?username=Tarun7791&style=flat-square&color=0e75b6)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
